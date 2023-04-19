@@ -1,4 +1,4 @@
-# QA code scaner based product discount Shopify App
+# Scane QR code based product discount Shopify App
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using Node and React. It contains the basics for building a Shopify app.
 
